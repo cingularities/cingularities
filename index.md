@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## cingularities
 
 You can use the [editor on GitHub](https://github.com/cingularities/cingularities/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
