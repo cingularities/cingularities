@@ -6,3 +6,5 @@ Specialize in using remote sensing and other geospatial data for natural resourc
 ### Roles
 * [Research Technologist and Drone Pilot for the Arizona Remote Sensing Cener 🛰️](https://storymaps.arcgis.com/stories/fb943656bef141ddb5a082a0f4e1c639 "ARSC Story Map")
 * [Photovoltaic Technologist at Technicians for Sustainability ☀️](http://www.tfssolar.com/ "TFS Website")
+
+![DroneFlight](https://github.com/cingularities/Images/blob/main/DroneFlight.jpg)
