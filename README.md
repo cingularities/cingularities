@@ -8,4 +8,6 @@ Specialize in using remote sensing and other geospatial data for natural resourc
 * [Photovoltaic Technologist at Technicians for Sustainability ☀️](http://www.tfssolar.com/ "TFS Website")
 
 ![DroneFlight](https://github.com/cingularities/Images/blob/main/DroneFlight.jpg)
-<DroneFlight src="https://github.com/cingularities/Images/blob/main/DroneFlight.jpg" width="100"
+
+
+<DroneFlight src="https://github.com/cingularities/Images/blob/main/DroneFlight.jpg" width="100">
