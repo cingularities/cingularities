@@ -1,5 +1,7 @@
 # Hello 🌳
 ## Research
+Data modeling and statistical analysis of environmental systems. 
+
 Specialize in using remote sensing and other geospatial data for natural resource research at different spatial scales within reproducible and automated scripts. 
 Data modeling and statistical analysis of environmental systems. 
 ### Roles
