@@ -10,4 +10,4 @@ Specialize in using remote sensing and other geospatial data for natural resourc
 ![DroneFlight](https://github.com/cingularities/Images/blob/main/DroneFlight.jpg)
 
 
-<DroneFlight src="https://github.com/cingularities/Images/blob/main/DroneFlight.jpg" width="100">
+<DroneFlight src="https://github.com/cingularities/Images/blob/main/DroneFlight.jpg" width="50">
