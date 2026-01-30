@@ -4,7 +4,7 @@ Data modeling and statistical analysis of environmental systems.
 
 Specialize in using remote sensing and other geospatial data for natural resource research at different spatial scales within reproducible and automated scripts. 
 
-[PERSONAL WEBSITE](https://www.cingularities.com/ "cingularities")
+[PERSONAL WEBSITE](https://www.libantinorton.com/ "Cindy Libantino Norton")
 
 
 [ORCID](https://orcid.org/0000-0002-4290-6914/ "ORCID")
